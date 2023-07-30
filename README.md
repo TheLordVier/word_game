@@ -11,7 +11,7 @@ ____
 ### Preparing and launching the application:
 
 1. Application cloning.
- - In the console, use the command git clone https://github.com/Andrew-715/Words-from-the-word.git
+ - In the console, use the command git clone https://github.com/TheLordVier/word_game
 2. Creation of the environment.
  - In the console, type in the command in the project directory `python -m venv venv`
 3. Launch.
